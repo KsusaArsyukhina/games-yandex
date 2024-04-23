@@ -1,4 +1,3 @@
-// routes/games.js
 const gamesRouter = require("express").Router();
 const {
   sendAllGames,
